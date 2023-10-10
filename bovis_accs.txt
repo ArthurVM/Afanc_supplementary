@@ -1,0 +1,154 @@
+GCA_000195835.3_ASM19583v2	variant bovis
+GCA_000488915.1_MB04303v1	variant bovis
+GCA_000488935.1_MBAN5v1	variant bovis
+GCA_000649655.1_Myco_bovi_Bz_31150_V1	variant bovis
+GCA_000649675.1_Myco_bovi_B2_7505_V1	variant bovis
+GCA_000666385.1_Myco_bovi_MAL010093_V1	variant bovis
+GCA_000729745.1_ASM72974v1	variant bovis
+GCA_000729755.1_ASM72975v1	variant bovis
+GCA_000729765.1_ASM72976v1	variant bovis
+GCA_000749605.1_ASM74960v1	variant bovis
+GCA_000749615.1_ASM74961v1	variant bovis
+GCA_000749625.1_ASM74962v1	variant bovis
+GCA_000749665.1_ASM74966v1	variant bovis
+GCA_000749675.1_ASM74967v1	variant bovis
+GCA_000749685.1_ASM74968v1	variant bovis
+GCA_000749725.1_ASM74972v1	variant bovis
+GCA_000749745.1_ASM74974v1	variant bovis
+GCA_000749765.1_ASM74976v1	variant bovis
+GCA_000749785.1_ASM74978v1	variant bovis
+GCA_000749805.1_ASM74980v1	variant bovis
+GCA_000749825.1_ASM74982v1	variant bovis
+GCA_000878485.1_ASM87848v1	variant bovis
+GCA_000934325.3_ASM93432v3	variant bovis
+GCA_000947875.1_Genome_assembly_of_Mycobacterium_bovis_MB1	variant bovis
+GCA_000947895.1_Assembly_of_the_genome_MB3	variant bovis
+GCA_001078615.1_ASM107861v1	variant bovis
+GCA_001184735.1_ASM118473v1	variant bovis
+GCA_001293105.1_ASM129310v1	variant bovis
+GCA_001369335.1_Assembly_of_Mycobacterium_caprae_MB5_genome	variant bovis
+GCA_001455165.1_ASM145516v1	variant bovis
+GCA_001483905.1_ASM148390v1	variant bovis
+GCA_001544775.1_ASM154477v1	variant bovis
+GCA_001726085.1_ASM172608v1	variant bovis
+GCA_002026285.1_ASM202628v1	variant bovis
+GCA_002026325.1_ASM202632v1	variant bovis
+GCA_002026395.1_ASM202639v1	variant bovis
+GCA_002148975.1_ASM214897v1	variant bovis
+GCA_002149005.1_ASM214900v1	variant bovis
+GCA_002504245.2_ASM250424v2	variant bovis
+GCA_002703685.1_ASM270368v1	variant bovis
+GCA_002703695.1_ASM270369v1	variant bovis
+GCA_002703725.1_ASM270372v1	variant bovis
+GCA_002703735.1_ASM270373v1	variant bovis
+GCA_002703765.1_ASM270376v1	variant bovis
+GCA_002703785.1_ASM270378v1	variant bovis
+GCA_002703795.1_ASM270379v1	variant bovis
+GCA_002703825.1_ASM270382v1	variant bovis
+GCA_002703835.1_ASM270383v1	variant bovis
+GCA_002703865.1_ASM270386v1	variant bovis
+GCA_002703875.1_ASM270387v1	variant bovis
+GCA_002703885.1_ASM270388v1	variant bovis
+GCA_002703895.1_ASM270389v1	variant bovis
+GCA_002703945.1_ASM270394v1	variant bovis
+GCA_002703955.1_ASM270395v1	variant bovis
+GCA_002703985.1_ASM270398v1	variant bovis
+GCA_002703995.1_ASM270399v1	variant bovis
+GCA_002704025.1_ASM270402v1	variant bovis
+GCA_002704035.1_ASM270403v1	variant bovis
+GCA_002704055.1_ASM270405v1	variant bovis
+GCA_002723535.1_ASM272353v1	variant bovis
+GCA_002723545.1_ASM272354v1	variant bovis
+GCA_002975475.1_ASM297547v1	variant bovis
+GCA_002976295.1_ASM297629v1	variant bovis
+GCA_002976335.1_ASM297633v1	variant bovis
+GCA_002976355.1_ASM297635v1	variant bovis
+GCA_002976375.1_ASM297637v1	variant bovis
+GCA_002982285.1_ASM298228v1	variant bovis
+GCA_003027855.2_ASM302785v2	variant bovis
+GCA_003027875.2_ASM302787v2	variant bovis
+GCA_005510525.1_ASM551052v1	variant bovis
+GCA_007922985.1_ASM792298v1	variant bovis
+GCA_007922995.1_ASM792299v1	variant bovis
+GCA_007989865.1_ASM798986v1	variant bovis
+GCA_007989875.1_ASM798987v1	variant bovis
+GCA_007989925.1_ASM798992v1	variant bovis
+GCA_007989935.1_ASM798993v1	variant bovis
+GCA_007989945.1_ASM798994v1	variant bovis
+GCA_007990005.1_ASM799000v1	variant bovis
+GCA_007990015.1_ASM799001v1	variant bovis
+GCA_007990045.1_ASM799004v1	variant bovis
+GCA_007990055.1_ASM799005v1	variant bovis
+GCA_007990075.1_ASM799007v1	variant bovis
+GCA_007990105.1_ASM799010v1	variant bovis
+GCA_008033095.1_ASM803309v1	variant bovis
+GCA_011392525.1_ASM1139252v1	variant bovis
+GCA_011392565.1_ASM1139256v1	variant bovis
+GCA_018305025.1_ASM1830502v1	variant bovis
+GCA_018305045.1_ASM1830504v1	variant bovis
+GCA_019075565.1_ASM1907556v1	variant bovis
+GCA_020536615.1_ASM2053661v1	variant bovis
+GCA_020536625.1_ASM2053662v1	variant bovis
+GCA_020536635.1_ASM2053663v1	variant bovis
+GCA_020536675.1_ASM2053667v1	variant bovis
+GCA_902459825.2_MB3601_COMBINED_annotated	variant bovis
+GCA_902506635.1_P9981	variant bovis
+GCA_902506665.1_P9979	variant bovis
+GCA_902506675.1_P9978	variant bovis
+GCA_902506725.1_P9980	variant bovis
+GCA_902509475.1_Q0209	variant bovis
+GCA_903992665.1_Q1128	variant bovis
+GCA_903992675.1_Q1134	variant bovis
+GCA_903992685.1_Q1139	variant bovis
+GCA_903992695.1_Q1129	variant bovis
+GCA_903992715.1_Q1142	variant bovis
+GCA_903992735.1_Q1133	variant bovis
+GCA_903992745.1_Q1132	variant bovis
+GCA_903992755.1_Q1131	variant bovis
+GCA_903992765.1_Q1141	variant bovis
+GCA_903992775.1_Q1140	variant bovis
+GCA_903992785.1_Q1138	variant bovis
+GCA_026013685.1_ASM2601368v1	variant bovis BCG
+GCA_000009445.1_ASM944v1	variant bovis BCG
+GCA_000010685.1_ASM1068v1	variant bovis BCG
+GCA_000194015.2_ASM19401v2	variant bovis BCG
+GCA_000194035.2_ASM19403v2	variant bovis BCG
+GCA_000194055.2_ASM19405v2	variant bovis BCG
+GCA_000194075.3_ASM19407v3	variant bovis BCG
+GCA_000234725.1_ASM23472v1	variant bovis BCG
+GCA_000338715.2_ASM33871v2	variant bovis BCG
+GCA_000463175.1_BCG_Frappier	variant bovis BCG
+GCA_000463195.1_BCG_Glaxo	variant bovis BCG
+GCA_000463215.1_BCG_Moreau	variant bovis BCG
+GCA_000463235.1_BCG_Phipps	variant bovis BCG
+GCA_000463255.1_BCG_Prague	variant bovis BCG
+GCA_000463275.1_BCG_Sweden	variant bovis BCG
+GCA_000705655.1_ASM70565v1	variant bovis BCG
+GCA_000967285.1_ASM96728v1	variant bovis BCG
+GCA_001043255.1_ASM104325v1	variant bovis BCG
+GCA_001274555.1_ASM127455v1	variant bovis BCG
+GCA_001287005.1_bcg_Phipps	variant bovis BCG
+GCA_001287045.1_bcg_Moreau	variant bovis BCG
+GCA_001287065.1_bcg_Birkhaug	variant bovis BCG
+GCA_001287105.1_bcg_Sweden	variant bovis BCG
+GCA_001287125.1_bcg_Copenhagen	variant bovis BCG
+GCA_001287165.1_bcg_Pasteur	variant bovis BCG
+GCA_001287185.1_bcg_Glaxo	variant bovis BCG
+GCA_001287205.1_bcg_Russia	variant bovis BCG
+GCA_001287225.1_bcg_Prague	variant bovis BCG
+GCA_001287245.1_bcg_China	variant bovis BCG
+GCA_001287325.1_bcg_Connaught	variant bovis BCG
+GCA_001287365.1_bcg_Tice	variant bovis BCG
+GCA_001287425.1_bcg_Tokyo	variant bovis BCG
+GCA_001287485.1_bcg_Frappier	variant bovis BCG
+GCA_001458155.1_S4	variant bovis BCG
+GCA_001544735.1_ASM154473v1	variant bovis BCG
+GCA_001580385.1_ASM158038v1	variant bovis BCG
+GCA_003703995.1_ASM370399v1	variant bovis BCG
+GCA_003704015.1_ASM370401v1	variant bovis BCG
+GCA_005155785.1_ASM515578v1	variant bovis BCG
+GCA_005156105.1_ASM515610v1	variant bovis BCG
+GCA_011392515.1_ASM1139251v1	variant bovis BCG
+GCA_015482805.1_ASM1548280v1	variant bovis BCG
+GCA_902299125.1_PRJEB33814-1	variant bovis BCG
+GCA_903992725.1_Q1135	variant bovis BCG
